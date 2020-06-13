@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>熙光</title>
+        <link>http://lucasji.cn/</link>
+        <description>热爱、感动、分享。</description>
+        <generator>Hugo 0.72.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>lucasji@qq.com (熙光)</managingEditor>
+        
+        
+            <webMaster>lucasji@qq.com (熙光)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sat, 13 Jun 2020 14:29:43 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://lucasji.cn/rss.xml" />
+        
+        
+    </channel>
+</rss>

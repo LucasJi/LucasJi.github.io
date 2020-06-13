@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">熙光</title>
+    <subtitle type="html">热爱、感动、分享。</subtitle>
+    <updated>2020-06-13T14:29:43&#43;08:00</updated>
+    <id>http://lucasji.cn/</id>
+    <link rel="alternate" type="text/html" href="http://lucasji.cn/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://lucasji.cn/atom.xml" />
+    <author>
+            <name>熙光</name>
+            <uri>http://lucasji.cn/</uri>
+            
+                <email>lucasji@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.72.0">Hugo</generator>
+</feed>
